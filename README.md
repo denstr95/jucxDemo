@@ -1,10 +1,9 @@
 # jucxDemo
 
-mkdir jucxDemo
-
-cd jucxDemo
 
 git clone https://github.com/denstr95/jucxDemo.git
+
+cd jucxDemo
 
 cp /ucx/build/bindings/java/src/main/native/build-java/jucx-1.12.0.jar  .
 
