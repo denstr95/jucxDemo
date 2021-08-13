@@ -1,3 +1,7 @@
+# singularity
+
+singularity pull library://destr104/default/jucx:latest
+
 # jucxDemo
 
 
