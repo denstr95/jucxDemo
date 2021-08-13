@@ -16,3 +16,9 @@ jar uf jucx-1.12.0.jar org/
 java -cp jucx-1.12.0.jar org.openucx.jucx.examples.MessagingServer 
 
 java -cp jucx-1.12.0.jar org.openucx.jucx.examples.MessagingClient
+
+# Memorydemo
+
+java -cp jucx-1.12.0.jar org.openucx.jucx.examples.MemoryServer 
+
+java -cp jucx-1.12.0.jar org.openucx.jucx.examples.MemoryClient
